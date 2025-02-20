@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/LandingPageCikara.iml" filepath="$PROJECT_DIR$/.idea/LandingPageCikara.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/cikara.iml" filepath="$PROJECT_DIR$/.idea/cikara.iml" />
+>>>>>>> 45eb1e0d58324cac86537aa4ee35f5dc3cf5876d
+    </modules>
+  </component>
+</project>
